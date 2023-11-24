@@ -6,7 +6,7 @@ This code defines a modified version of the ResNet architecture with Squeeze-and
 Make sure you have the following libraries installed:
 
 ```bash
-pip install torch torchvision
+pip install torch torchvision numpy matplotlib
 ```
 
 ## Model Architecture
