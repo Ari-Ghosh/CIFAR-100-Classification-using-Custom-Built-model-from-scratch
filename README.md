@@ -23,6 +23,6 @@ The model is trained using the cross-entropy loss function and stochastic gradie
 
 ## Results
 
-The test accuracy of the model is 75.29% after training for 50 epochs.
+The test accuracy of the model is 75.29% after training for 50 epochs on the 50 layer model, Accuracy can be further increased by implementing 101 or 152 layer model.
 
 Feel free to modify hyperparameters or experiment with different architectures based on your specific requirements.
